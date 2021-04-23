@@ -1,6 +1,6 @@
 {
   "certs": [
-     "Ii4IARIgmuygThdRzmJo1WkALKHh+hstvCbTa06joAg603KCm4RFkPT3XU2QNv5vKT6tfJIvitz8MkD3ci0ZVZsXX+Vu3VQ6HRQQq8Zn7bE3HyG8sQFMqiRbNhQ/BLQk1ZdYJyPAJdWajpB5b/OHt10fN6qJLG6KpEAD",
+    "Ii4IARIgmuygThdRzmJo1WkALKHh+hstvCbTa06joAg603KCm4RFkPT3XU2QNv5vKT6tfJIvitz8MkD3ci0ZVZsXX+Vu3VQ6HRQQq8Zn7bE3HyG8sQFMqiRbNhQ/BLQk1ZdYJyPAJdWajpB5b/OHt10fN6qJLG6KpEAD",
     "Ij4IARIgpdtY6tZuJOfB3FHhsMDlJWo6EFDmRXVNMgEkptCg+YpFe+tzXk17UjZiUJrVEFCO0iNQ+pQ+UIy8TSk+rXySL4rc/DJAI0GYYUD51fy96jEEnZ8wdvdkmKsJHIaSYTeeKoiVPL3s8ISdD5lgafQshu7LvKdIZWl/OQgvoTWkp3sVRk5hAQ==",
     "IjIIARIgaMVHur3UExsppAQNmlq0lEm4VJJ2R+HAu3V2JFKxV8FFkPT3XU2QW7phULLKNCk+rXySL4rc/DJAbLtp6gz5mlfS38tyySVkSdouS/KjLsODT7aJBeWIp0qkzeS75qm7LhRS84MLrF8Ng15o7DTrPpM+yLWYUo5yBA==",
     "IjIIARIgpPJHtQVj8i8katUqP+SUJg9ii7nf00CWUrvoxrvqwa9FoBz9XU2gg79hUNiiQSk+rXySL4rc/DJAUk8ODaJ7xR7HXdjIrl7TH6LYIr9t2UpGcS41+Ok9n3m/9eGFGr/V/j0FMR+HZLH9bQdx1P0Kv6zTDj/0y9w9Dg==",
@@ -13,6 +13,11 @@
     "IkgIARIg1Dgd2R8FszAqcaMuEmzMoli/lZC8dEqopsWXmQRE8dlFkPT3XU2QW7phULoEULAGUICKD1DexwxQosI+UJLzP1CavkMpPq18ki+K3PwyQOwKKW6kEbVa9fvARVa7tuuw8SCiFw5mXoTqL2iMlzzEOdxUYv5LH6mVMTP2PsX5sl/8+b/K06v4nUs6RRweyA0=",
     "IkoIARIgAMdpGLGVnpcF3RtvKZld2zISFKdkviQmghM9RBMrurdFkPT3XU2QW7phUOyjHFDtoxxQ7qMcULLkHlC41DVQxIsaUNrcOCk+rXySL4rc/DJAjRsa3PpZK8c8twoK9hKmLTg3Ou8NhoFxer8T3k3EBSwo/2teOmPL7Sa9R+1xzSHqVIj56v+CB1ni9c/bL4ggCg=="
   ],
+  "p2p_share_ip": {
+    "cn": 20,
+    "default": 40,
+    "ru": 20
+  },
   "pops": {
     "ams": {
       "desc": "Amsterdam",
@@ -1236,7 +1241,7 @@
       "desc": "Sofia, Bulgaria",
       "geo": [ 23.41, 42.7 ],
       "relay_addresses": [
-        "139.45.193.10":27015-27019"
+        "139.45.193.10:27015-27019"
       ],
       "relays": [
         {
