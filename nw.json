@@ -74,22 +74,6 @@
         "100.67.32.0/19"
       ]
     },
-    "auw2": {
-      "desc": "AWS us-west-2 (Oregon)",
-      "groups": [
-        "cloud-test"
-      ],
-      "ping_only": true,
-      "relay_addresses": [
-        "34.212.218.15:27015-27019"
-      ],
-      "relays": [
-        {
-          "ipv4": "34.212.218.15",
-          "port_range": [ 27015, 27019 ]
-        }
-      ]
-    },
     "bom": {
       "desc": "Mumbai",
       "geo": [ 72.49, 18.58 ],
