@@ -13,11 +13,6 @@
     "IkgIARIg1Dgd2R8FszAqcaMuEmzMoli/lZC8dEqopsWXmQRE8dlFkPT3XU2QW7phULoEULAGUICKD1DexwxQosI+UJLzP1CavkMpPq18ki+K3PwyQOwKKW6kEbVa9fvARVa7tuuw8SCiFw5mXoTqL2iMlzzEOdxUYv5LH6mVMTP2PsX5sl/8+b/K06v4nUs6RRweyA0=",
     "IkoIARIgAMdpGLGVnpcF3RtvKZld2zISFKdkviQmghM9RBMrurdFkPT3XU2QW7phUOyjHFDtoxxQ7qMcULLkHlC41DVQxIsaUNrcOCk+rXySL4rc/DJAjRsa3PpZK8c8twoK9hKmLTg3Ou8NhoFxer8T3k3EBSwo/2teOmPL7Sa9R+1xzSHqVIj56v+CB1ni9c/bL4ggCg=="
   ],
-  "p2p_share_ip": {
-    "cn": 20,
-    "default": 40,
-    "ru": 20
-  },
   "pops": {
     "ams": {
       "desc": "Amsterdam",
